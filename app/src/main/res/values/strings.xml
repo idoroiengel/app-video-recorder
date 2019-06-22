@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Video Recorder App</string>
+    <string name="start_video_button_text">"start video"</string>
+    <string name="please_insert_parameters_toast_message">please insert parameters</string>
+    <string name="number_of_seconds_hint_text">number of seconds</string>
+    <string name="frame_rate_hint_text">frame rate</string>
 </resources>
